@@ -35,6 +35,18 @@ With the aid of the visuals i created, i was able to highlight some of the key s
 
 ![](Overview.png)
 
+![](TeamAnalysis1.png)
+
+![](TeamAnalysis2.png)
+
+![](TeamAnalysis3.png)
+
+![](PlayerAnalysis1.png)
+
+![](PlayerAnalysis2.png)
+
+![](PlayerAnalysis3.png)
+
 
 ## 6.0 - Insights 
 There are some major insights gotten from this analysis, they include
