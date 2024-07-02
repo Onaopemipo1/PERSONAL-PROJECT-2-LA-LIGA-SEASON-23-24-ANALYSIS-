@@ -33,6 +33,9 @@ Using Microsoft Excel, i was able to extract the data from the website and made 
 With the Data loaded to PowerBi, i made some certain analysis to find some interesting metrics as to what were the key insights gotten from the just concluded season in the Spanish League. 
 With the aid of the visuals i created, i was able to highlight some of the key statistics that occured during the season. I was able to use the criteria of the team and club. 
 
+![](Overview.png)
+
+
 ## 6.0 - Insights 
 There are some major insights gotten from this analysis, they include
 
