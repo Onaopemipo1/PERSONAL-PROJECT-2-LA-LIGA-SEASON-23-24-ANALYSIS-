@@ -19,7 +19,7 @@ The Aim of this analysis is to use the Statistics which were accumulated from th
 This analysis will show some key metrics such as the Player with the Highest Number of goals, Player with the Highest Number of Assists, Club with the most goals, Club with the most crosses and much more. 
 
 ## 2.0 - Data Sources
-The Data Source for this Analysis was gotten from the Official Website of the Spanish League Website, Sofascore, Footystats, Trasfermarkt and FBref.com.  
+The Data Source for this Analysis was gotten from the Official Website of the Spanish League Website, Sofascore, Footystats, Transfermarkt and FBref.com.  
 
 ## 3.0 - Tools Used
 3.1 -**Microsoft Excel** [Download Here](www.microsoft.com)
